@@ -1,0 +1,10 @@
+.grid-container{
+  display: grid;
+}
+
+.grid{
+  background-color: rgb(78, 138, 242);
+  padding: 30px;
+  margin: 10px;
+  border-radius: 5px;
+}
